@@ -1,3 +1,5 @@
+This project is used for learning
+
 # Vanilla JS Projects
 
 #### Enroll In The Course
